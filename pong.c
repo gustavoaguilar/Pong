@@ -25,12 +25,12 @@ int main(int argc, char const *argv[]) {
   while(running){
     key = getch();
     if(key == 'q' )running = 0;
-    if(key == 'k'){
+    if(key == 'a'){
       if(px>1){
         px -= move;
       }
     }
-    if(key == 'l'){
+    if(key == 's'){
       if(px<14){
         px += move;
       }
