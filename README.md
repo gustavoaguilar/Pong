@@ -1,2 +1,5 @@
 # Pong
-Pong game made with NCurses
+My Pong respository
+
+List of used programming Languages
+* C
