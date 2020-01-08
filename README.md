@@ -2,4 +2,5 @@
 My Pong respository
 
 List of used programming Languages
-* C
+* C (nCurses)
+* Python (pygame)
