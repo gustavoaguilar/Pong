@@ -7,3 +7,4 @@ List of used programming Languages
 * Python
 * Lua
 * Java
+* Rust
